@@ -1,4 +1,4 @@
 module.exports = {
 
-    token : "TOKEN"
+    token : "TOKEN_OF_YOUR_BOT"
 }
